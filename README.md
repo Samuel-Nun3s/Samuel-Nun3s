@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Samuel Nunes, I am currently studying HTML and CSS, I am from Santa Catarina, Brazil.</p>
+<p align="center">My name is Samuel Nunes, I am currently studying Javascript, I am from Santa Catarina, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying HTML and CSS<br>🎯 My goal is to become a Full-Stack developer<br>🎲 Fun fact: I love working out 💪</p>
+<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying Javascript<br>🎯 My goal is to become a Full-Stack developer<br>🎲 Fun fact: I love working out 💪</p>
 
 ###
 
