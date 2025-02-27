@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying Javascript<br>🎯 My goal is to become a Full-Stack developer<br>🎲 Fun fact: I love working out 💪</p>
+<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying NodeJs<br>🎯 My goal is to become a Backend developer<br>🎲 Fun fact: I love working out 💪</p>
 
 ###
 
