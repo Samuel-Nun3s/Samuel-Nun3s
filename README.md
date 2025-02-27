@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Samuel Nunes, I am currently studying Javascript, I am from Santa Catarina, Brazil.</p>
+<p align="center">My name is Samuel Nunes, I am currently studying NodeJs, I am from Santa Catarina, Brazil.</p>
 
 ###
 
