@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Samuel Nunes, I am currently studying React, I am from Santa Catarina, Brazil.</p>
+<p align="center">My name is Samuel Nunes, I am currently studying Nodejs, I am from Santa Catarina, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying React<br>🎯 My goal is to become a Full-Stack developer<br>🎲 Fun fact: I love working out 💪</p>
+<p align="center">✨ Creating bugs since 2023<br>📚 Currently studying Nodejs<br>🎯 My goal is to become a Full-Stack developer<br>🎲 Fun fact: I love working out 💪</p>
 
 ###
 
@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
